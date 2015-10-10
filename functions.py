@@ -21,5 +21,5 @@ def my_decorator(some_function):
 #     print "testing"
 
 
-def is_prime(num):
+def is_even(num):
     return num % 2 == 0
