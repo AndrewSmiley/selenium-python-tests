@@ -13,3 +13,5 @@ def test2():
     assert is_even(3) == False
 def test3():
     assert is_even(5) == False
+def test4():
+    assert "Hello" == "Hello"
